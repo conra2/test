@@ -2,7 +2,7 @@ var App =
 {
     Init: function () {
         App.x = $("#x");
-        App.IncludeHTML(App.x, "_materias/matematica/matematica.html");
+        App.IncludeHTML(App.x, "materias/matematica/matematica.html");
     },
 
 
